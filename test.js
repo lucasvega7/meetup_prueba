@@ -1,5 +1,5 @@
 let a = 1;
-let b = 7;
+let b = 99999;
 
 if (a + b == 3) {
     console.log("Todo funciona");
